@@ -1,0 +1,16 @@
+Searching for: hola luis
+Searching for: hola luis
+Loading in AIML files. 
+Read in AIML: C:\Users\Luis\Desktop\chatbox\Prototipo1.0\bot\default.aiml
+  # of categories = 8
+Read in AIML: C:\Users\Luis\Desktop\chatbox\Prototipo1.0\bot\nombres.aiml
+  # of categories = 172
+Read in AIML: C:\Users\Luis\Desktop\chatbox\Prototipo1.0\bot\numeros.aiml
+  # of categories = 164
+Read in AIML: C:\Users\Luis\Desktop\chatbox\Prototipo1.0\bot\sara.aiml
+  # of categories = 148
+Read in AIML: C:\Users\Luis\Desktop\chatbox\Prototipo1.0\bot\sara_srai.aiml
+  # of categories = 1701
+Read in AIML: C:\Users\Luis\Desktop\chatbox\Prototipo1.0\bot\sexo.aiml
+  # of categories = 176
+

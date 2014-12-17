@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+
+
+  <aiml version="1.0"> 
+
+	<category> 
+      <pattern>hola</pattern>
+      <template> 	  
+          Hola bienvenido, si deseas realizar alguna busqueda, indiquequelo terminando la frase con "?" 
+       </template>       
+	</category>
+	
+	<category>
+<pattern>Si</pattern><that>Estas interesado en hacer alguna busqueda?</that>
+    <template> 
+        <random> 
+          <li>Inserte la palabra que de desee buscar terminada con "?"</li>
+          <li>Adelante, pregunteme que deseaa buscar, recuerde que tiene que ir terminado por "?"</li>
+        </random>
+      </template>
+    </category>
+    <category>
+	<pattern>*</pattern>
+      <template> 
+        <random> 
+          <li>Esto es un prototipo basico en el futuro se, ira ampliando con nuevas funcionalidades.</li>
+          <li>Hoy hace muy buen dia.</li>
+		  <li>Estas interesado en hacer alguna busqueda?</li>
+        </random>
+      </template>
+    </category>
+	
+
+  </aiml>

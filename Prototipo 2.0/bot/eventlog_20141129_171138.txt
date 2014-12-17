@@ -1,0 +1,99 @@
+Searching for: hola luis
+Searching for: hola luis
+Loading in AIML files. 
+Read in AIML: C:\Users\Luis\Desktop\chatbox\Prototipo1.0\bot\default.aiml
+  # of categories = 8
+Read in AIML: C:\Users\Luis\Desktop\chatbox\Prototipo1.0\bot\nombres.aiml
+  # of categories = 172
+Read in AIML: C:\Users\Luis\Desktop\chatbox\Prototipo1.0\bot\numeros.aiml
+  # of categories = 164
+Read in AIML: C:\Users\Luis\Desktop\chatbox\Prototipo1.0\bot\sara.aiml
+  # of categories = 148
+Read in AIML: C:\Users\Luis\Desktop\chatbox\Prototipo1.0\bot\sara_srai.aiml
+  # of categories = 1701
+Read in AIML: C:\Users\Luis\Desktop\chatbox\Prototipo1.0\bot\sexo.aiml
+  # of categories = 176
+Searching for: hola luis
+Couldn't find your search string. 
+Searching for: hola luis
+Couldn't find your search string. 
+Searching for: hola
+Found at row 407.  Pattern is: HOLA
+Searching for: hola
+Found at row 1307.  Pattern is: HOLA *
+Searching for: hola
+Found at row 1308.  Pattern is: * HOLA
+Searching for: hola
+Found at row 407.  Pattern is: HOLA
+Searching for: hola
+Found at row 407.  Pattern is: HOLA
+Searching for: hola
+Found at row 407.  Pattern is: HOLA
+Searching for: hola
+Found at row 407.  Pattern is: HOLA
+Searching for: hola
+Found at row 407.  Pattern is: HOLA
+Searching for: hola
+Found at row 1309.  Pattern is: _ HOLA *
+Searching for: hola
+Found at row 1310.  Pattern is: HOOOLA
+Searching for: hola
+Found at row 1311.  Pattern is: HOOOLA *
+Searching for: hola
+Found at row 1312.  Pattern is: * HOOOLA
+Searching for: hola
+Found at row 1313.  Pattern is: _ HOOOLA *
+Searching for: hola
+Found at row 1314.  Pattern is: HEY
+Searching for: hola
+Found at row 1315.  Pattern is: HEY *
+Searching for: hola
+Found at row 1316.  Pattern is: * HEY
+Searching for: hola
+Found at row 1317.  Pattern is: _ HEY *
+Searching for: hola
+Found at row 1318.  Pattern is: OLA
+Searching for: hola
+Found at row 1319.  Pattern is: OLA *
+Searching for: hola
+Found at row 1320.  Pattern is: * OLA
+Searching for: hola
+Found at row 1321.  Pattern is: _ OLA *
+Searching for: hola
+Found at row 1322.  Pattern is: WENAS
+Searching for: hola
+Found at row 1323.  Pattern is: WENAS *
+Searching for: hola
+Found at row 1324.  Pattern is: * WENAS
+Searching for: hola
+Found at row 1325.  Pattern is: _ WENAS *
+Searching for: hola
+Found at row 1326.  Pattern is: GUENAS
+Searching for: hola
+Found at row 1327.  Pattern is: GUENAS *
+Searching for: hola
+Found at row 1328.  Pattern is: * GUENAS
+Searching for: hola
+Found at row 1329.  Pattern is: _ GUENAS *
+Searching for: hola
+Found at row 1330.  Pattern is: ENAS
+Searching for: hola
+Found at row 1331.  Pattern is: ENAS *
+Searching for: hola
+Found at row 1332.  Pattern is: * ENAS
+Searching for: hola
+Found at row 1333.  Pattern is: _ ENAS *
+Searching for: hola
+Found at row 1334.  Pattern is: NAS
+Searching for: hola
+Found at row 1335.  Pattern is: NAS *
+Searching for: hola
+Found at row 1336.  Pattern is: * NAS
+Searching for: hola
+Found at row 1337.  Pattern is: _ NAS *
+Comments changed! 
+Schema in use for template validation: asdad 
+Starting template validation against schema... 
+0 errors found in validation. 
+Template validation complete! 
+
