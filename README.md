@@ -1,13 +1,6 @@
-Chatbot
-=======
+Se ha implementado un asistente virtual cuyo propósito principal es facilitar la búsqueda de información dentro del dominio de la Facultad de Informática de la Universidad Complutense. 
 
-Se irán añadiendo los avances del proyecto:
+El programa es capaz de analizar las peticiones del usuario en lenguaje natural para intentar ofrecer respuestas que satisfagan sus necesidades. Para ello utiliza un analizador de oraciones, capaz de identificar los elementos más relevantes y si alguno de estos pertenece a la red semántica de la web poder dar una respuesta coherente y mostrar el origen de la información. En el caso de que los elementos no estuvieran contemplados, se ayudará de un buscador para ofrecer una serie de resultados, que puedan servir de ayuda. 
 
-Buscador:
-
-Se ha realizado un Japplet en java muy sencillo en el que se ha indexado la pag web:http://informatica.ucm.es/
-
-Con el crawler apache-nutch-1.4-bin , y se ha indexado la información con solr-4.10.1, y se esta utilizando el servlet tomcat 7.0
-
-La palicacion java realiza una http request al servidor (localhost de  tomcat) y devuelve un conjunto de paginas web donde aparece la palabra buscada.
+Dicha funcionalidad está inmersa en un diálogo escrito con el fin de simular el comportamiento de un ser humano y así poder facilitar las búsquedas mejorando la calidad del servicio.
 
